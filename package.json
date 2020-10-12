@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "node": "^14.13.1",
+    "yarn": "^1.22.10"
+  },
+  "name": "NLW3",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
